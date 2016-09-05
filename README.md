@@ -1,3 +1,3 @@
 # youtube-app
 Declare your API key in your gradle.properties file:
-API_KEY = “abcdef”
+GOOGLE_API_KEY = “abcdef”
